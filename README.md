@@ -1,4 +1,3 @@
 "# HackerEarth_ML3_Challenge" 
-"# latitude_longitude_nearest_neighbour_search" 
-"# latitude_longitude_nearest_neighbour_search" 
-"# latitude_longitude_nearest_neighbour_search" 
+
+https://www.hackerearth.com/practice/machine-learning/challenges-winning-approach/machine-learning-challenge-three/tutorial/
